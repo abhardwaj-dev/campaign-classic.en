@@ -27,7 +27,7 @@ There are three possible insertion modes:
 
    If necessary, once they are added, you can double-click them or click the **[!UICONTROL Detail...]** button to adapt the content of each address.
 
-1. Creating a condition to dynamically select the control addresses to be inserted.
+1. Creating a condition to dynamically select the seed addresses to be inserted.
 
    To do this, click the **[!UICONTROL Edit the dynamic condition...]** link, then enter the seed address selection parameters. For instance, you could include all the seed addresses contained in a specific folder, or seed addresses belonging to a specific department from your organization.
 
